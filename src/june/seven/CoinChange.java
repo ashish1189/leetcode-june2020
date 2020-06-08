@@ -3,6 +3,20 @@ package june.seven;
 import java.util.Date;
 
 public class CoinChange {
+	public int change(int[] coins, int length, int amount) {
+		if(amount == 0)
+			return 1;
+		
+		if(amount < 0)
+			return 0;
+		
+		if(length <= 0 && amount > 0)
+			return 0;
+		
+		return change(coins, length - 1, amount) 
+				+ change(coins, length, amount - coins[length - 1]);
+	}
+
 	public int change(int amount, int[] coins) {
 		int len = coins.length;
 		int[] dp = new int[amount + 1];
