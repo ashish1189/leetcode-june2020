@@ -17,3 +17,4 @@ A collection of solutions for the June LeetCoding Challenge 2020.
 | 12 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3358/ | Easy  | NA | NA | NA | NA | Within 15 mins |
 | 13 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3359/ | Medium  | NA | DP | NA | NA | Within 45 mins |
 | 14 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3360/ | Hard  | NA | BFS | NA | NA | Within 90 mins |
+| 15 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3361/ | Easy  | BST | DFS | NA | NA | Within 10 mins |
