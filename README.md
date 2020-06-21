@@ -23,3 +23,4 @@ A collection of solutions for the June LeetCoding Challenge 2020.
 | 18 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3364/ | Easy  | BS | NA | NA | NA | Within 30 mins |
 | 19 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3365/ | Hard  | Rabin-Karp | NA | NA | NA | Within 120 mins |
 | 20 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3366/ | Medium  | NA | Array | NA | NA | Within 45 mins |
+| 21 | https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/541/week-3-june-15th-june-21st/3367/ | Medium  | DP | Array | NA | NA | Within 30 mins |
